@@ -1,0 +1,9 @@
+git clone https://github.com/ubco-mds-2024/541llab3.git
+cd 541lab3
+git checkout -b Markdown
+git status
+git add lab3 .
+git commit -m "lab3"
+ git push --set-upstream origin Markdown
+
+
