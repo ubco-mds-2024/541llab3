@@ -4,6 +4,6 @@ git checkout -b Markdown
 git status
 git add lab3 .
 git commit -m "lab3"
- git push --set-upstream origin Markdown
+git push --set-upstream origin Markdown
 
 
